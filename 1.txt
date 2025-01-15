@@ -1,0 +1,23 @@
+1/
+
+http://localhost/index.php?route=product/product&language=en-gb&product_id=43
+
+numai recomandari hp
+
+2/
+
+cos http://localhost/index.php?route=product/product&language=en-gb&product_id=518&search=asus
+
+http://localhost/index.php?route=product/product&language=en-gb&product_id=43
+
+si asus si hp
+
+3/
+
+http://localhost/index.php?route=product/product&product_id=701
+
+multe au 8 gb, selectam 16 gb
+
+http://localhost/index.php?route=product/product&product_id=777
+
+primele au 16 gb
